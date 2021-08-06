@@ -1,0 +1,6 @@
+music21
+timidity
+opencv-python
+pygame
+tkinter
+freepats
